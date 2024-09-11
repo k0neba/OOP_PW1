@@ -1,0 +1,12 @@
+﻿<cars>
+	<shop id="0">
+		<model>Volvo</model>
+		<year>2001</year>
+		<price>6000</price>
+	</shop>
+	<shop id="1">
+		<model>BMB</model>
+		<year>2009</year>
+		<price>17000</price>
+	</shop>
+</cars>

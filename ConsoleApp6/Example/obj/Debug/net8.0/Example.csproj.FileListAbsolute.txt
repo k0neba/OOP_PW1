@@ -1,0 +1,14 @@
+E:\source\ConsoleApp6\Example\bin\Debug\net8.0\Example.exe
+E:\source\ConsoleApp6\Example\bin\Debug\net8.0\Example.deps.json
+E:\source\ConsoleApp6\Example\bin\Debug\net8.0\Example.runtimeconfig.json
+E:\source\ConsoleApp6\Example\bin\Debug\net8.0\Example.dll
+E:\source\ConsoleApp6\Example\bin\Debug\net8.0\Example.pdb
+E:\source\ConsoleApp6\Example\obj\Debug\net8.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\ConsoleApp6\Example\obj\Debug\net8.0\Example.AssemblyInfoInputs.cache
+E:\source\ConsoleApp6\Example\obj\Debug\net8.0\Example.AssemblyInfo.cs
+E:\source\ConsoleApp6\Example\obj\Debug\net8.0\Example.csproj.CoreCompileInputs.cache
+E:\source\ConsoleApp6\Example\obj\Debug\net8.0\Example.dll
+E:\source\ConsoleApp6\Example\obj\Debug\net8.0\refint\Example.dll
+E:\source\ConsoleApp6\Example\obj\Debug\net8.0\Example.pdb
+E:\source\ConsoleApp6\Example\obj\Debug\net8.0\Example.genruntimeconfig.cache
+E:\source\ConsoleApp6\Example\obj\Debug\net8.0\ref\Example.dll
